@@ -9,7 +9,7 @@ Use a simple emoji to visually represent your availability to your team in Slack
 ## What it means
 Red pill = I'm bending time and reality and entirely plugged in to the Matrix - I'm in the rabbit hole (or, I'm maxed out at the moment and not available to help on other projects)
 
-![The Red Pill](https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/slack1.png "The Red Pill")
+![The Red Pill](https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/slack1.png "The Red Pill" 50%)
 
 
 Blue pill = Things are rather chill right now (or, I have a few cycles to spare if you need some help on your project)
@@ -21,7 +21,7 @@ From Slack:
 2. View profile and account
 3. Click Edit button
 4. In Last Name field, click next to the end of your name or airport code, then CRTL+CMD+SPACE on Mac to open emoticon window
-5. Add the red or blue pill
+5. Add the red or blue pill (search for red or blue, or Large red pill, Large blue pill)
 6. Save changes
 
 ##Variations
