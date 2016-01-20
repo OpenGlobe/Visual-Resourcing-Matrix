@@ -9,10 +9,10 @@ Use a simple emoji to visually represent your availability to your team in Slack
 ## What it means
 Red pill = I'm bending time and reality and entirely plugged in to the Matrix - I'm in the rabbit hole (or, I'm maxed out at the moment and not available to help on other projects)
 
-![The Red Pill](https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/slack1.png "The Red Pill" 50%)
-
-
 Blue pill = Things are rather chill right now (or, I have a few cycles to spare if you need some help on your project)
+
+![The Red Pill](https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/slack1.png "The Red Pill")
+
 
 ##How it works
 From Slack:
