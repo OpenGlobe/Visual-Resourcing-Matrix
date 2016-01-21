@@ -6,6 +6,8 @@ Simple way to clue others in on your availability.
 ## What it is
 Use a simple emoji to visually represent your availability to your team in Slack.
 
+![Updated Profile] (https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/emoji.png "An updated profile")
+
 ## What it means
 Red pill = I'm bending time and reality and entirely plugged in to the Matrix - I'm in the rabbit hole (or, I'm maxed out at the moment and not available to help on other projects)
 
