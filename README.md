@@ -1,10 +1,7 @@
 "You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in wonderland, and I show you how deep the rabbit hole goes." The term redpill refers to a human that is aware of the true nature of the Matrix." - [The Matrix](http://matrix.wikia.com/wiki/Redpill)
 
-# Visual-Resourcing-Matrix
-A simple way to clue others in on your availability.
-
-## What it is
-Use a simple emoji to visually represent your availability to your team in Slack.
+# What it is
+A simple way to clue others in on your availability to support other projects.  Looking to add a bit of billable time?  Looking for a bit of help on your own project?  Simple visual cues can help us figure out who might be available at any given time without having to look any further than Slack.
 
 ![Updated Profile] (https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/emoji.png "An updated profile")
 
@@ -17,7 +14,7 @@ Red pill = I'm bending time and reality and entirely plugged in to the Matrix - 
 
 ![The Red Pill](https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/neo_slack.png "The Red Pill")
 
-##How it works
+##How to set up your profile
 From Slack:
 
 1. Click on name
