@@ -1,7 +1,7 @@
 "You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in wonderland, and I show you how deep the rabbit hole goes." The term redpill refers to a human that is aware of the true nature of the Matrix." - [The Matrix](http://matrix.wikia.com/wiki/Redpill)
 
 # Visual-Resourcing-Matrix
-Simple way to clue others in on your availability.
+A simple way to clue others in on your availability.
 
 ## What it is
 Use a simple emoji to visually represent your availability to your team in Slack.
@@ -9,12 +9,13 @@ Use a simple emoji to visually represent your availability to your team in Slack
 ![Updated Profile] (https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/emoji.png "An updated profile")
 
 ## What it means
-Red pill = I'm bending time and reality and entirely plugged in to the Matrix - I'm in the rabbit hole (or, I'm maxed out at the moment and not available to help on other projects)
-
 Blue pill = Things are rather chill right now (or, I have a few cycles to spare if you need some help on your project)
 
-![The Red Pill](https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/slack1.png "The Red Pill")
+![The Blue Pill](https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/thomas_slack.png "The Red Pill")
 
+Red pill = I'm bending time and reality and entirely plugged in to the Matrix - I'm in the rabbit hole (or, I'm maxed out at the moment and not available to help on other projects)
+
+![The Red Pill](https://raw.githubusercontent.com/OpenGlobe/Visual-Resourcing-Matrix/master/neo_slack.png "The Red Pill")
 
 ##How it works
 From Slack:
@@ -28,6 +29,7 @@ From Slack:
 
 ##Variations
 
-Red --> Blue = busy now, have time coming up
-Blue --> Red = have time now, but not for long
-Red Red = I'm so busy pulling crazy moves on my project I unfortunately have next to no time to sleep.  
+- Red --> Blue = busy now, have time coming up
+- Blue --> Red = have time now, but not for long
+- Red Red = I'm so busy pulling crazy moves on my project I unfortunately have next to no time to sleep.  
+- White / Gray --> Out of Office!  (Note: use the "medium white circle" emoji)
